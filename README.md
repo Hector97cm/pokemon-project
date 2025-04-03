@@ -15,3 +15,4 @@ Adaptació del Projecte Pokémon MVVM a Vue
     hectorcalvo66@gmail.com
 
 Projecte acabat.
+Versió final v1.0
